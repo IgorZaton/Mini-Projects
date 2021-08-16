@@ -11,7 +11,7 @@ Simple text generator based on markov chain. Markov chain is created from upload
 
 **Humans Segmentation - humansSegmentation.ipynb**
 
-Segmentation humans from images using Attention U-Net based on @bnsreenu tutorial.
+Segmentation humans from images using U-Net based on original paper (https://arxiv.org/pdf/1505.04597.pdf).
 
 *Result:*
 
