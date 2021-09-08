@@ -30,3 +30,14 @@ Converting image to ascii characters set. Try it on high resolution images for b
 |<img src="https://user-images.githubusercontent.com/50952749/131333268-56dc105f-905e-4dcb-80e9-1c28c1565249.PNG" alt="drawing" width="300" height="300"/>|<img src="https://user-images.githubusercontent.com/50952749/131333283-422bd1ae-331e-404f-9942-c1f8738b9656.PNG" alt="drawing" width="300" height="300"/>|
 
 
+**Portrait Colorization - PortraitColorization.ipynb**
+
+Colorizing portraits with autoencoder.
+
+*Result:*
+
+![download](https://user-images.githubusercontent.com/50952749/132494438-131f12e4-6127-4873-b590-3a940562e8b9.png)
+
+![download (1)](https://user-images.githubusercontent.com/50952749/132494452-f1a0301d-136d-49e9-bdd1-eb5c6eefdccf.png)
+
+
