@@ -41,3 +41,8 @@ Colorizing portraits with autoencoder.
 ![download (1)](https://user-images.githubusercontent.com/50952749/132494452-f1a0301d-136d-49e9-bdd1-eb5c6eefdccf.png)
 
 
+**Face Recognition - faceRecognition.ipynb**
+
+Face recognition using resnet and lfw dataset.
+
+
