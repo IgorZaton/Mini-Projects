@@ -45,4 +45,7 @@ Colorizing portraits with autoencoder.
 
 Face recognition using resnet and lfw dataset.
 
+Results:
+
+![cm](https://user-images.githubusercontent.com/50952749/142724136-17c1ba54-5095-4ed0-8566-1f7eecb4a0ba.png)
 
